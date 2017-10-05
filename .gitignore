@@ -45,3 +45,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Bin Folder
+bin/*
+
+# JNetPCap Javadoc
+jnetpcap-javadoc-1.3.0-1/*
